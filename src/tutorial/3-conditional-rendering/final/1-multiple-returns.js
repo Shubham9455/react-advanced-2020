@@ -39,7 +39,7 @@ const MultipleReturns = () => {
     );
   }
   return (
-    <div>
+     <div>
       <h1>{user}</h1>
     </div>
   );
