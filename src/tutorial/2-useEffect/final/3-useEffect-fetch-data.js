@@ -12,7 +12,7 @@ const UseEffectFetchData = () => {
     const users = await response.json();
     setUsers(users);
     // console.log(users);
-  };
+  }; 
 
   useEffect(() => {
     getUsers();
